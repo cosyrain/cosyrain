@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cosyrain.
 - 👀 I’m interested in Front-end develop.
 - 🌱 I’m currently learning Mini Program.
-- 💞️ I’m looking to collaborate on Mini Program
+- 💞️ I’m looking to collaborate on Mini Program.
 - 📫 Contact me: @cosyrain.
 
 <!---
